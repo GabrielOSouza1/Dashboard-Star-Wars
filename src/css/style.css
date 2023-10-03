@@ -73,17 +73,17 @@ ul {
 }
 
 .card-small {
-  width: 400px;
+  width: 240px;
   display: flex;
   align-items: center;
 }
 
 .card-large {
-  width: 600px;
+  width: 464px;
 }
 
 .img {
-    height: 70px;
+    height: 40px;
 }
 
 .card .card-content {
@@ -108,13 +108,13 @@ ul {
 }
 
 .card-info h2 {
-  font-size: 60px;
+  font-size: 54px;
   font-weight: bold;
   color: #ffba33;
 }
 
 .card-info p {
-  font-size: 30px;
+  font-size: 16px;
 }
 
 .card-info {
@@ -128,7 +128,7 @@ ul {
 }
 
 .table {
-  width: 942px;
+  width: 642px;
   height: 450px;
   padding: 30px;
   background-color: #fff;
@@ -140,7 +140,7 @@ ul {
 
 .table h4 {
   font-weight: bold;
-  font-size: 20px;
+  font-size: 18px;
   margin-bottom: 10px;
 }
 
